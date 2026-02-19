@@ -1,24 +1,21 @@
 # 🧮 Calculadora em Python
 
-Minha primeira calculadora feita em Python 🐍
+Minha primeira calculadora feita em Python 
 
-## 📌 Sobre o projeto
+# Sobre o projeto
 
 Este projeto foi criado para praticar lógica de programação usando Python.  
 A calculadora realiza operações matemáticas básicas através do terminal.
 
-## ⚙️ Funcionalidades
+# Funcionalidades
 
 - ➕ Soma
 - ➖ Subtração
 - ✖️ Multiplicação
 - ➗ Divisão
 
-## 🚀 Como executar
+# Como executar
 
 1. Instale o Python no seu computador
 2. Baixe o arquivo `calculadora.py`
 3. Execute no terminal:
-
-```bash
-python calculadora.py
